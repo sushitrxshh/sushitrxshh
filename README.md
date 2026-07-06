@@ -12,6 +12,11 @@
 ![](https://streak-stats.demolab.com/?user=sushitrxshh&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sushitrxshh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/ghanapayeng/?theme=dark&font=Karma&ext=contest" />
+</p>
 ---
 [![](https://komarev.com/ghpvc/?username=sushitrxshh&icon=0&color=0)](https://visitcount.itsvg.in)
 
