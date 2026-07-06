@@ -17,8 +17,9 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ghanapayeng?theme=dark&font=Karma&ext=contest" />
 </p>
+
 ---
 
-![](https://komarev.com/ghpvc/?username=sushitrxshh&label=Profile%20Views&color=blueviolet&style=flat)
+# ![](https://komarev.com/ghpvc/?username=sushitrxshh&label=Profile%20Views&color=blueviolet&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
