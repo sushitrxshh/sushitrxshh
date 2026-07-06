@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on URL Shortener <br>👯 I’m looking to collaborate on Full Stack Projects <br>🤝 I’m looking for help with RAG based Academic Assistant <br>🌱 I’m currently learning Data Structures & Algorithms, Next.js, TypeScript, Node.js, System Design, LangChain, Vector Databases (FAISS/Pinecone), Docker <br>💬 Ask me about Python, C++, JavaScript, React, Next.js, Node.js, DSA, SQL, REST APIs, Git & GitHub <br>⚡ Fun fact I enjoy solving DSA problems on LeetCode and building projects that solve real-world problems.
+🔭 I’m currently working on URL Shortener <br>👯 I’m looking to collaborate on Full Stack Projects <br>🤝 I’m looking for help with RAG based Academic Assistant <br>🌱 I’m currently learning Data Structures & Algorithms, Next.js, TypeScript, Node.js, System Design, LangChain, Vector Databases <br> (FAISS/Pinecone), Docker <br>💬 Ask me about Python, C++, JavaScript, React, Next.js, Node.js, DSA, SQL, REST APIs, Git & GitHub <br>⚡ Fun fact I enjoy solving DSA problems on LeetCode and building projects that solve real-world problems.
 
 
 ## 🌐 Socials:
