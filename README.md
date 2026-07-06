@@ -15,9 +15,10 @@
 # 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/ghanapayeng/?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/ghanapayeng?theme=dark&font=Karma&ext=contest" />
 </p>
 ---
+
 [![](https://komarev.com/ghpvc/?username=sushitrxshh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
