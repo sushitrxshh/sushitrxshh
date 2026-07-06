@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -18,7 +17,6 @@
 - 💬 Ask me about **Python, C++, JavaScript, React, Next.js, Node.js, SQL**
 - 📫 Reach me at **ghanakanta076@gmail.com**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -53,7 +51,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
 
 ## 🚀 Featured Projects
 
@@ -66,7 +63,6 @@ An AI-powered application that allows students to query syllabus, notes, and pre
 ### 💼 Portfolio Website
 Personal portfolio showcasing projects, skills, and experience.
 
----
 
 ## 📈 GitHub Stats
 
@@ -78,7 +74,6 @@ Personal portfolio showcasing projects, skills, and experience.
 
 </p>
 
----
 
 ## 🔥 GitHub Streak
 
@@ -88,13 +83,7 @@ Personal portfolio showcasing projects, skills, and experience.
 
 </p>
 
----
 
-## 📊 GitHub Activity Graph
-
-[![Ghana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 🌐 Connect with Me
 
@@ -108,7 +97,7 @@ Personal portfolio showcasing projects, skills, and experience.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:ghanakanta076@gmail.com">
+<a href="ghanakanta076@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
