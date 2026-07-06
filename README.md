@@ -19,6 +19,6 @@
 </p>
 ---
 
-[![](https://komarev.com/ghpvc/?username=sushitrxshh&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sushitrxshh&label=Profile%20Views&color=blueviolet&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
